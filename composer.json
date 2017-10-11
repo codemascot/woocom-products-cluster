@@ -1,0 +1,24 @@
+{
+	"name": "rnaby/woocom-products-cluster",
+	"description": "Gives the opportunity to sell mulitple products as a single product through product clustering.",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"license": "GPL-2.0",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "TheDramatist",
+			"email": "naby88@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"TheDramatist\\WooComProductsCluster\\": "src/"
+		}
+	}
+}

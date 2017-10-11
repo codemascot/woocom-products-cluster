@@ -1,0 +1,1 @@
+# WooCom Products Cluster assets for the wordpress.org repository
